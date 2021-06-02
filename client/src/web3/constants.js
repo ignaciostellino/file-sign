@@ -1,0 +1,3 @@
+export const CURRENT_NETWORK = "Rinkeby";
+export const CONTRACT_ADDRESS = "0xDcC35253fD87807Ac432d349572Bad321Ac90aF0";
+export const DEPLOY_BLOCK = 8690503;
