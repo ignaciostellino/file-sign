@@ -1,4 +1,6 @@
 # File-sign-eyss
+Live site is [here](https://file-sign.netlify.app/)
+
 ## Dependencies
 
 Install dependencies with `npm install` or `yarn`. Also install the dependencies under the `client` folder using the same commands
